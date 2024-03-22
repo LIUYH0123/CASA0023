@@ -1,0 +1,17 @@
+# Week 6- Classification I
+
+## Summary
+
+![](images/week6s.jpg)
+
+## Applications
+
+Remote sensing image classification is the process of assigning land cover classes to pixels based on the characteristics of electromagnetic wave radiation from ground objects on remotely sensed images. Reliable classification methods are needed in the use of remotely sensed data for land cover monitoring in order to accurately map complex land cover and land use classes.
+
+One such integrated learning technique called Random Forest is increasingly being used for classification using multispectral and hyperspectral satellite sensor images. It is a powerful machine learning classifier that provides an algorithm for estimating missing values and performs many types of data analysis including regression, survival analysis and unsupervised learning. For example, Rodriguez-Galiano et al. [-@rodriguez-galiano2012] used multi-season Landsat data to evaluate the performance of the Random Forest classifier on a land cover classification task with high internal heterogeneity and complex landscape features, and showed that the Random Forest algorithm was able to generate land cover classifications with an accuracy of 92%, which is higher than that of the conventional Classification Tree algorithm (shown in the figure below) and is relatively robust to outliers and noise in the training data.
+
+![Land-cover change maps between CT and RF for Granada Province: (a) RF and (b) classification tree. Source:[@rodriguez-galiano2012]](images/week6.jpg)
+
+## Reflection
+
+This week I learnt about classification techniques for remote sensing images, mastering the use of supervised and unsupervised classification methods and combining them with advanced machine learning techniques such as Support Vector Machines and Random Forests to improve the accuracy and robustness of classification. In the practical class, I learnt how to deal with the cloud coverage problem and how to use training samples and classifiers to improve the accuracy of classification through the process of classifying Sentinel data in Shenzhen area. In addition, I recognised the importance of model validation and how to assess the validity of classification results through error matrices and accuracy assessments. These skills are crucial for future applications in areas such as environmental monitoring, urban planning and resource management, and have sparked my interest in further exploring the application of remote sensing techniques and machine learning methods in geospatial data analysis.

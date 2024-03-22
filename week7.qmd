@@ -1,0 +1,17 @@
+# Week 7- Classification II
+
+## Summary
+
+![](images/week7s.jpg)
+
+## Applications
+
+As spatial resolution becomes finer and finer, the rich spatial information presented in high-resolution images makes it more difficult to accurately classify high-resolution images [@zhao2016], and deep learning provides an effective strategy to fill the gap between complex image patterns and their semantic labels.
+
+For example, Zhao, Du, and Emery [-@zhao2017] proposed an object-based deep learning method to classify urban landscapes using high-resolution images, and the classification results are shown below using the five-layer structure of CNN. The experimental results show that through the combination of deep learning and object-based classification, it is possible to distinguish between different building types in the Beijing scene, such as commercial and residential buildings, with a classification accuracy of more than 90%, and this timely and accurate classification and interpretation of high-resolution images is very important for urban planning and disaster relief.
+
+![In (A), (B), and (C) is shown the classification results by using five layer CNN network over Worldview-2. Source: [@zhao2017]](images/week7.jpg)
+
+## Reflection
+
+This week I continued my in-depth study of classification of remotely sensed imagery, and through hands-on work with subpixel classification and spectral resolution techniques in the practical sessions, I discovered their power in dealing with mixed pixels, which allows me to more accurately capture small variations in the landscape. I also got to practice Superpixel, an object-based image analysis method, which provided me with a way to transition from initial pixel-level analysis to object-level analysis, helping me to capture structure and patterns in the landscape. All in all, it was a pleasure to learn these techniques for processing remote sensing images this week, and I am confident that these skills will help me greatly in my future endeavours!

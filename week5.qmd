@@ -1,0 +1,21 @@
+# Week 5- Google Earth Engine
+
+## Summary
+
+![](images/week5s.jpg)
+
+## Applications
+
+Google Earth Engine (GEE) is a portal to global time-series satellite imagery and vector data, cloud-based computing, and the software and algorithms used to process such data [@gorelick2017], and is used in a wide range of applications in agriculture, forestry, ecosystems and sustainability, and natural disaster research.
+
+![Different application areas of GEE. Source:[@pham-duc2023]](images/week5.jpg){fig-align="center"}
+
+In the field of agriculture, Xiong et al. [-@xiong2017] developed an automated farmland mapping algorithm that was deployed on the GEE Cloud Computing Platform to automate the mapping of farmland across the continent, providing a powerful tool for agricultural monitoring and food safety assessment in Africa, with the development of a web-based repository of datasets as shown in the figure below.
+
+![Web-based data set repository Source:[@xiong2017]](images/week52.jpg)
+
+## Reflection
+
+This week has made me realise how easy to use, interesting and powerful GEE is, which allows users to efficiently process and analyse remote sensing big data without relying on local computing resources, which sounds very cool. Meanwhile, this week I have performed cropping, texture measurement, principal component analysis and other operations on Landsat data on the GEE platform, which has the advantage of being more interactive and simpler to access and use data than R. However, in the process of using GEE I also found some challenges that I may encounter, such as the problem of the scale of the data, the problem of splicing and fusion between different images when dealing with multiple images, etc. The solution of these problems requires a more in-depth understanding of the algorithmic libraries and the various functions of GEE, as well as continuous practice.
+
+Overall, as a powerful geographic data analysis platform, GEE provides a rich geospatial database and powerful functions that can help us to process and analyse large-scale geographic data in a cloud environment, I think it is a very good product, and in the future, I will continue to learn and explore more functions of GEE!

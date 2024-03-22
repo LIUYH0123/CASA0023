@@ -1,0 +1,9 @@
+# Week 2- Xrigan
+
+This week's undefined is about the Soil Moisture and Ocean Salinity (SMOS) satellite slide presentation using Xaringan.
+
+```{r echo = FALSE, out.width='40%'}
+xaringanExtra::embed_xaringan(
+  url = "https://liuyh0123.github.io/ppt/",
+  ratio = "16:9")
+```

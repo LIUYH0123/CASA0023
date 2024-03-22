@@ -1,0 +1,19 @@
+# Week 8- Temperature
+
+## Summary
+
+![](images/week8s.jpg)
+
+## Applications
+
+Remote sensing, which allows consistent and repeatable observations of surface temperature in urban environments at various spatial and temporal scales, plays a vital role in the study of urban temperatures, and this part focuses on the application of remote sensing in the study of urban temperatures.
+
+Zargari et al. [-@zargari2024]studied the phenomenon of surface urban heat island in Tehran and its suburbs by comparing surface temperature day and night data from remote sensing satellites. The results showed that at night Tehran experienced relatively high surface temperatures in urban areas and southern, southeastern, southwestern and western suburbs (as shown in the figure below), revealing that the phenomenon of heat island effect is not only confined to the urban areas but has been extended beyond the city boundaries, which provides a scientific basis for understanding the spatial distribution characteristics of the urban heat island effect, and for establishing a rational urban planning to mitigate the effect of the heat island.
+
+![The spatial distribution of annual LST (**a**), UHI (**b**), and vegetation (**c**) in Tehran. Source: [@zargari2024]](images/week8.jpg)
+
+## Reflection
+
+Through my research on the urban heat island effect this week, I have gained a deeper understanding of urban environmental issues. Especially when analysing the temperature data of Beijing and other cities in the practical class, I realised the potential impacts of the urban heat island effect on residents' lives, urban ecology and human health.
+
+This week has further enhanced my ability to analyse remote sensing data. By using Landsat and MODIS data, I have learnt how to process and analyse temperature data at different resolutions and how to combine these data with spatial units such as administrative boundaries to identify and monitor hotspot areas in cities. In addition, I recognised the utility of time series analysis in understanding changes in urban thermal environments, and how to assess and manage urban thermal risk through statistical methods such as percentile rankings. These skills not only enhanced my ability to analyse data, but also alerted me to think deeply about the implications of climate change issues in my future work.

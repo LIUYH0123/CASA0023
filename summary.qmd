@@ -1,0 +1,19 @@
+# Week 3- Corrections
+
+## Summary
+
+![](images/week3su.jpg)
+
+## Applications
+
+The main focus of this week's course was on preprocessing methods for remote sensing images, and of the various methods I was most interested in atmospheric correction, so this section focuses on the application of atmospheric correction.
+
+For example, Siregar et al [-@siregar2018]used the FLAASH (Fast Line-of-sight Atmospheric Analysis of Spectral Hypercubes) method to perform atmospheric corrections on SPOT-7 imagery to remove the effects of atmospheric particles such as dust and water vapour) to identify the distribution of benthic habitats in the shallow waters of Harapan and Kelapa islands.
+
+FLAASH in the study is an atmospheric correction tool using the MODTRAN method, which is capable of extracting visible, near-infrared, and short-wave infrared wavelengths, and can reduce the effects of atmospheric perturbations and improve the accuracy of the image information by obtaining more accurate reflectance, emissivity, surface temperature, and physical surface parameters. The results of the study show that the atmospherically corrected images have improved in terms of contrast and accuracy, especially in the submerged areas, as shown in the figure below.
+
+![Comparison image before correction (a) and after atmospheric correction (b) Source:[@siregar2018]](images/wk3.jpg){fig-align="center"}
+
+## Reflection
+
+This week's course introduced specific methods of remote sensing image preprocessing, which made me realise the complexity and importance of image processing, which is not only a key step in improving image quality, but also the basis for ensuring the accuracy of remotely sensed data. Among the various processing methods, the practical course specifically introduced the dark object subtraction, which is a simple and commonly used correction method to eliminate the influence of the atmosphere on the image, and is crucial for obtaining more accurate information about the surface, and also ignited my enthusiasm to explore more correction methods. In addition, I learnt how to enhance remote sensing images using methods such as texture analysis and principal component analysis. Comparing the remote sensing images before and after enhancement, I clearly found that the key information in the image was extracted and emphasised, which is very useful for the interpretation of remote sensing images. These techniques I learnt this week not only improved my ability to pre-process remote sensing images, but also stimulated my interest in further exploring their application in areas such as environmental monitoring and resource management.

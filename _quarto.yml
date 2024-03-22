@@ -1,0 +1,29 @@
+project:
+  type: book
+  output-dir: docs
+book:
+  title: "CASA 0023 Learning Diary"
+  author: "Yihan Liu"
+  date: "2024/2/22"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - week2.qmd
+    - summary.qmd
+    - week4.qmd
+    - week5.qmd
+    - week6.qmd
+    - week7.qmd
+    - week8.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
