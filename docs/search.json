@@ -1,0 +1,262 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CASA 0023 Learning Diary",
+    "section": "",
+    "text": "Personal Introduction\nHi, my name is Liu Yihan and I received my undergraduate degree in Land Resource Management from China University of Geosciences (Beijing). During my undergraduate studies, I have developed a strong interest in using data to analyse urban issues and have been involved in a variety of activities. For example, on campus, I worked with several classmates with the same interest to study the coupled relationship between urbanisation efficiency and eco-efficiency in the Yellow River Basin under the guidance of the supervisor, and wrote and published a paper about it. Meanwhile, I had an internship in a planning company and participated in the project of assessing the slow-moving network system in Changping District, Beijing and the research project of assessing the carbon reduction potential of urban community life circle planning.\nMy interest in learning new technologies and using data to identify and solve urban problems attracted me to choose the Remote Sensing of Cities and Environments course, where I hope to improve my ability to process and analyse remotely sensed data for application in my future career. And this website is my study diary containing my weekly learning experiences for this course, happy reading!",
+    "crumbs": [
+      "Personal Introduction"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Week 1- Introduction to remote sensing",
+    "section": "",
+    "text": "1.1 Summary",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Week 1- Introduction to remote sensing</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#applications",
+    "href": "intro.html#applications",
+    "title": "1  Week 1- Introduction to remote sensing",
+    "section": "1.2 Applications",
+    "text": "1.2 Applications\nRemote sensing, which collects information about the Earth’s surface by assessing reflected and radiated energy over long distances, is now widely used in fields such as agriculture, forestry, climate detection, water resource management, and urban planning.\n\n\n\nSatellite remote sensing applications(George-Alexandru Ilie and Vasile 2011)\n\n\nA specific example of the application of remote sensing data preprocessing, spectral feature comparison methods learnt in the classroom is the application of remote sensing for surface temperature analysis of land cover change in the Greater Cairo region of Egypt (Aboelnour and Engel 2018). The study used Landsat datasets with different temporal dimensions to analyse land cover change through classification and post-classification change detection techniques using remote sensing image preprocessing, image classification, and other methods, in order to help policy makers to predict and plan for the future development of the Greater Cairo region in Egypt, to achieve long term sustainability of soil and water resources, and to cope with the impacts of climate change.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Week 1- Introduction to remote sensing</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#reflection",
+    "href": "intro.html#reflection",
+    "title": "1  Week 1- Introduction to remote sensing",
+    "section": "1.3 Reflection",
+    "text": "1.3 Reflection\nWhat impressed me most about this week’s course was the powerful ability that remote sensing technology gives us to observe and understand information about features on the Earth’s surface. For example, the spectral features I extracted from the Sentinel and Landsat datasets in the hands-on class can be used to classify and compare different types of features, and identify the characteristics and distribution of various features on the Earth. In my undergraduate stage, I had studied the course of land management, at that time, the teacher mentioned that remote sensing can be used in land use and cover change detection and other aspects to provide basic information for land planning and management, and this class gave me the opportunity to process remote sensing data and analyse the land cover type of hands-on practice, which gave me a deeper understanding of what I had learnt before, and at the same time, it also made me look forward to the content of the next study, which will bring me more The class has given me a deeper understanding of what I have learnt, and also made me look forward to what I will learn next, which will bring me more inspiration.\n\n\n\n\nAboelnour, Mohamed, and Bernard A. Engel. 2018. “Application of Remote Sensing Techniques and Geographic Information Systems to Analyze Land Surface Temperature in Response to Land Use/Land Cover Change in Greater Cairo Region, Egypt.” Journal of Geographic Information System 10 (01): 57–88. https://doi.org/10.4236/jgis.2018.101003.\n\n\nGeorge-Alexandru Ilie, and Gabriel Vasile. 2011. “Spaceborne SAR Tomography: Application in Urban Environment.” https://doi.org/10.13140/RG.2.2.22514.71365.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Week 1- Introduction to remote sensing</span>"
+    ]
+  },
+  {
+    "objectID": "week2.html",
+    "href": "week2.html",
+    "title": "2  Week 2- Xrigan",
+    "section": "",
+    "text": "This week’s undefined is about the Soil Moisture and Ocean Salinity (SMOS) satellite slide presentation using Xaringan.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Week 2- Xrigan</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Week 3- Corrections",
+    "section": "",
+    "text": "3.1 Summary",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 3- Corrections</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Aboelnour, Mohamed, and Bernard A. Engel. 2018. “Application of\nRemote Sensing Techniques and Geographic Information Systems to Analyze\nLand Surface Temperature in Response to Land Use/Land Cover Change in\nGreater Cairo Region, Egypt.” Journal of Geographic\nInformation System 10 (01): 57–88. https://doi.org/10.4236/jgis.2018.101003.\n\n\nGeorge-Alexandru Ilie, and Gabriel Vasile. 2011. “Spaceborne SAR\nTomography: Application in Urban Environment.” https://doi.org/10.13140/RG.2.2.22514.71365.\n\n\nGorelick, Noel, Matt Hancher, Mike Dixon, Simon Ilyushchenko, David\nThau, and Rebecca Moore. 2017. “Google Earth Engine:\nPlanetary-Scale Geospatial Analysis for Everyone.” Remote\nSensing of Environment 202 (December): 18–27. https://doi.org/10.1016/j.rse.2017.06.031.\n\n\nPham-Duc, Binh, Ho Nguyen, Hien Phan, and Quan Tran-Anh. 2023.\n“Trends and Applications of Google Earth Engine in Remote Sensing\nand Earth Science Research: A Bibliometric Analysis Using Scopus\nDatabase.” Earth Science Informatics 16 (3): 2355–71. https://doi.org/10.1007/s12145-023-01035-2.\n\n\nRodriguez-Galiano, V. F., B. Ghimire, J. Rogan, M. Chica-Olmo, and J. P.\nRigol-Sanchez. 2012. “An Assessment of the Effectiveness of a\nRandom Forest Classifier for Land-Cover Classification.”\nISPRS Journal of Photogrammetry and Remote Sensing 67\n(January): 93–104. https://doi.org/10.1016/j.isprsjprs.2011.11.002.\n\n\nSiregar, V P, N W Prabowo, S B Agus, and T Subarno. 2018. “The\nEffect of Atmospheric Correction on Object Based Image Classification\nUsing SPOT-7 Imagery: A Case Study in the Harapan and Kelapa\nIslands.” IOP Conference Series: Earth and Environmental\nScience 176 (July): 012028. https://doi.org/10.1088/1755-1315/176/1/012028.\n\n\nWang, Yifei, Lu Peng, Liang Emlyn Yang, Zehao Wang, and Xiangzheng Deng.\n2024. “Attributing Effects of Classified Infrastructure Management\non Mitigating Urban Flood Risks: A Case Study in Beijing, China.”\nSustainable Cities and Society 101 (February): 105141. https://doi.org/10.1016/j.scs.2023.105141.\n\n\nWang, Zehao, Zhihui Li, Yifei Wang, Xinqi Zheng, and Xiangzheng Deng.\n2024. “Building Green Infrastructure for Mitigating Urban Flood\nRisk in Beijing, China.” Urban Forestry & Urban\nGreening 93 (March): 128218. https://doi.org/10.1016/j.ufug.2024.128218.\n\n\nXiong, Jun, Prasad S. Thenkabail, Murali K. Gumma, Pardhasaradhi\nTeluguntla, Justin Poehnelt, Russell G. Congalton, Kamini Yadav, and\nDavid Thau. 2017. “Automated Cropland Mapping of Continental\nAfrica Using Google Earth Engine Cloud Computing.” ISPRS\nJournal of Photogrammetry and Remote Sensing 126 (April): 225–44.\nhttps://doi.org/10.1016/j.isprsjprs.2017.01.019.\n\n\nXu, Hongshi, Chao Ma, Jijian Lian, Kui Xu, and Evance Chaima. 2018.\n“Urban Flooding Risk Assessment Based on an Integrated k-Means\nCluster Algorithm and Improved Entropy Weight Method in the Region of\nHaikou, China.” Journal of Hydrology 563 (August):\n975–86. https://doi.org/10.1016/j.jhydrol.2018.06.060.\n\n\nZargari, Motahhareh, Abbas Mofidi, Alireza Entezari, and Mohammad\nBaaghideh. 2024. “Climatic Comparison of Surface Urban Heat Island\nUsing Satellite Remote Sensing in Tehran and Suburbs.”\nScientific Reports 14 (1). https://doi.org/10.1038/s41598-023-50757-2.\n\n\nZhao, Wenzhi, and Shihong Du. 2016. “Spectralspatial\nFeature Extraction for Hyperspectral Image Classification: A Dimension\nReduction and Deep Learning Approach.” IEEE Transactions on\nGeoscience and Remote Sensing 54 (8): 4544–54. https://doi.org/10.1109/tgrs.2016.2543748.\n\n\nZhao, Wenzhi, Shihong Du, and William J. Emery. 2017.\n“Object-Based Convolutional Neural Network for High-Resolution\nImagery Classification.” IEEE Journal of Selected Topics in\nApplied Earth Observations and Remote Sensing 10 (7): 3386–96. https://doi.org/10.1109/jstars.2017.2680324.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "intro.html#reference",
+    "href": "intro.html#reference",
+    "title": "1  Week 1- Introduction to remote sensing",
+    "section": "1.4 Reference",
+    "text": "1.4 Reference\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nAboelnour, Mohamed, and Bernard A. Engel. 2018. “Application of Remote Sensing Techniques and Geographic Information Systems to Analyze Land Surface Temperature in Response to Land Use/Land Cover Change in Greater Cairo Region, Egypt.” Journal of Geographic Information System 10 (01): 57–88. https://doi.org/10.4236/jgis.2018.101003.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Week 1- Introduction to remote sensing</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#applications",
+    "href": "summary.html#applications",
+    "title": "3  Week 3- Corrections",
+    "section": "3.2 Applications",
+    "text": "3.2 Applications\nThe main focus of this week’s course was on preprocessing methods for remote sensing images, and of the various methods I was most interested in atmospheric correction, so this section focuses on the application of atmospheric correction.\nFor example, Siregar et al (2018)used the FLAASH (Fast Line-of-sight Atmospheric Analysis of Spectral Hypercubes) method to perform atmospheric corrections on SPOT-7 imagery to remove the effects of atmospheric particles such as dust and water vapour) to identify the distribution of benthic habitats in the shallow waters of Harapan and Kelapa islands.\nFLAASH in the study is an atmospheric correction tool using the MODTRAN method, which is capable of extracting visible, near-infrared, and short-wave infrared wavelengths, and can reduce the effects of atmospheric perturbations and improve the accuracy of the image information by obtaining more accurate reflectance, emissivity, surface temperature, and physical surface parameters. The results of the study show that the atmospherically corrected images have improved in terms of contrast and accuracy, especially in the submerged areas, as shown in the figure below.\n\n\n\nComparison image before correction (a) and after atmospheric correction (b) Source:(Siregar et al. 2018)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 3- Corrections</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#reflection",
+    "href": "summary.html#reflection",
+    "title": "3  Week 3- Corrections",
+    "section": "3.3 Reflection",
+    "text": "3.3 Reflection\nThis week’s course introduced specific methods of remote sensing image preprocessing, which made me realise the complexity and importance of image processing, which is not only a key step in improving image quality, but also the basis for ensuring the accuracy of remotely sensed data. Among the various processing methods, the practical course specifically introduced the dark object subtraction, which is a simple and commonly used correction method to eliminate the influence of the atmosphere on the image, and is crucial for obtaining more accurate information about the surface, and also ignited my enthusiasm to explore more correction methods. In addition, I learnt how to enhance remote sensing images using methods such as texture analysis and principal component analysis. Comparing the remote sensing images before and after enhancement, I clearly found that the key information in the image was extracted and emphasised, which is very useful for the interpretation of remote sensing images. These techniques I learnt this week not only improved my ability to pre-process remote sensing images, but also stimulated my interest in further exploring their application in areas such as environmental monitoring and resource management.\n\n\n\n\nSiregar, V P, N W Prabowo, S B Agus, and T Subarno. 2018. “The Effect of Atmospheric Correction on Object Based Image Classification Using SPOT-7 Imagery: A Case Study in the Harapan and Kelapa Islands.” IOP Conference Series: Earth and Environmental Science 176 (July): 012028. https://doi.org/10.1088/1755-1315/176/1/012028.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 3- Corrections</span>"
+    ]
+  },
+  {
+    "objectID": "week5.html",
+    "href": "week5.html",
+    "title": "5  Week 5- Google Earth Engine",
+    "section": "",
+    "text": "5.1 Summary",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 5- Google Earth Engine</span>"
+    ]
+  },
+  {
+    "objectID": "week5.html#applications",
+    "href": "week5.html#applications",
+    "title": "5  Week 5- Google Earth Engine",
+    "section": "5.2 Applications",
+    "text": "5.2 Applications\nGoogle Earth Engine (GEE) is a portal to global time-series satellite imagery and vector data, cloud-based computing, and the software and algorithms used to process such data (Gorelick et al. 2017), and is used in a wide range of applications in agriculture, forestry, ecosystems and sustainability, and natural disaster research.\n\n\n\nDifferent application areas of GEE. Source:(Pham-Duc et al. 2023)\n\n\nIn the field of agriculture, Xiong et al. (2017) developed an automated farmland mapping algorithm that was deployed on the GEE Cloud Computing Platform to automate the mapping of farmland across the continent, providing a powerful tool for agricultural monitoring and food safety assessment in Africa, with the development of a web-based repository of datasets as shown in the figure below.\n\n\n\nWeb-based data set repository Source:(Xiong et al. 2017)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 5- Google Earth Engine</span>"
+    ]
+  },
+  {
+    "objectID": "week5.html#reflection",
+    "href": "week5.html#reflection",
+    "title": "5  Week 5- Google Earth Engine",
+    "section": "5.3 Reflection",
+    "text": "5.3 Reflection\nThis week has made me realise how easy to use, interesting and powerful GEE is, which allows users to efficiently process and analyse remote sensing big data without relying on local computing resources, which sounds very cool. Meanwhile, this week I have performed cropping, texture measurement, principal component analysis and other operations on Landsat data on the GEE platform, which has the advantage of being more interactive and simpler to access and use data than R. However, in the process of using GEE I also found some challenges that I may encounter, such as the problem of the scale of the data, the problem of splicing and fusion between different images when dealing with multiple images, etc. The solution of these problems requires a more in-depth understanding of the algorithmic libraries and the various functions of GEE, as well as continuous practice.\nOverall, as a powerful geographic data analysis platform, GEE provides a rich geospatial database and powerful functions that can help us to process and analyse large-scale geographic data in a cloud environment, I think it is a very good product, and in the future, I will continue to learn and explore more functions of GEE!\n\n\n\n\nGorelick, Noel, Matt Hancher, Mike Dixon, Simon Ilyushchenko, David Thau, and Rebecca Moore. 2017. “Google Earth Engine: Planetary-Scale Geospatial Analysis for Everyone.” Remote Sensing of Environment 202 (December): 18–27. https://doi.org/10.1016/j.rse.2017.06.031.\n\n\nPham-Duc, Binh, Ho Nguyen, Hien Phan, and Quan Tran-Anh. 2023. “Trends and Applications of Google Earth Engine in Remote Sensing and Earth Science Research: A Bibliometric Analysis Using Scopus Database.” Earth Science Informatics 16 (3): 2355–71. https://doi.org/10.1007/s12145-023-01035-2.\n\n\nXiong, Jun, Prasad S. Thenkabail, Murali K. Gumma, Pardhasaradhi Teluguntla, Justin Poehnelt, Russell G. Congalton, Kamini Yadav, and David Thau. 2017. “Automated Cropland Mapping of Continental Africa Using Google Earth Engine Cloud Computing.” ISPRS Journal of Photogrammetry and Remote Sensing 126 (April): 225–44. https://doi.org/10.1016/j.isprsjprs.2017.01.019.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Week 5- Google Earth Engine</span>"
+    ]
+  },
+  {
+    "objectID": "week6.html",
+    "href": "week6.html",
+    "title": "6  Week 6- Classification I",
+    "section": "",
+    "text": "6.1 Summary",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Week 6- Classification I</span>"
+    ]
+  },
+  {
+    "objectID": "week6.html#applications",
+    "href": "week6.html#applications",
+    "title": "6  Week 6- Classification I",
+    "section": "6.2 Applications",
+    "text": "6.2 Applications\nRemote sensing image classification is the process of assigning land cover classes to pixels based on the characteristics of electromagnetic wave radiation from ground objects on remotely sensed images. Reliable classification methods are needed in the use of remotely sensed data for land cover monitoring in order to accurately map complex land cover and land use classes.\nOne such integrated learning technique called Random Forest is increasingly being used for classification using multispectral and hyperspectral satellite sensor images. It is a powerful machine learning classifier that provides an algorithm for estimating missing values and performs many types of data analysis including regression, survival analysis and unsupervised learning. For example, Rodriguez-Galiano et al. (2012) used multi-season Landsat data to evaluate the performance of the Random Forest classifier on a land cover classification task with high internal heterogeneity and complex landscape features, and showed that the Random Forest algorithm was able to generate land cover classifications with an accuracy of 92%, which is higher than that of the conventional Classification Tree algorithm (shown in the figure below) and is relatively robust to outliers and noise in the training data.\n\n\n\nLand-cover change maps between CT and RF for Granada Province: (a) RF and (b) classification tree. Source:(Rodriguez-Galiano et al. 2012)",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Week 6- Classification I</span>"
+    ]
+  },
+  {
+    "objectID": "week6.html#reflection",
+    "href": "week6.html#reflection",
+    "title": "6  Week 6- Classification I",
+    "section": "6.3 Reflection",
+    "text": "6.3 Reflection\nThis week I learnt about classification techniques for remote sensing images, mastering the use of supervised and unsupervised classification methods and combining them with advanced machine learning techniques such as Support Vector Machines and Random Forests to improve the accuracy and robustness of classification. In the practical class, I learnt how to deal with the cloud coverage problem and how to use training samples and classifiers to improve the accuracy of classification through the process of classifying Sentinel data in Shenzhen area. In addition, I recognised the importance of model validation and how to assess the validity of classification results through error matrices and accuracy assessments. These skills are crucial for future applications in areas such as environmental monitoring, urban planning and resource management, and have sparked my interest in further exploring the application of remote sensing techniques and machine learning methods in geospatial data analysis.\n\n\n\n\nRodriguez-Galiano, V. F., B. Ghimire, J. Rogan, M. Chica-Olmo, and J. P. Rigol-Sanchez. 2012. “An Assessment of the Effectiveness of a Random Forest Classifier for Land-Cover Classification.” ISPRS Journal of Photogrammetry and Remote Sensing 67 (January): 93–104. https://doi.org/10.1016/j.isprsjprs.2011.11.002.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Week 6- Classification I</span>"
+    ]
+  },
+  {
+    "objectID": "week4.html",
+    "href": "week4.html",
+    "title": "4  Week 4- Policy",
+    "section": "",
+    "text": "4.1 Summary\nIn the context of climate change, flooding is a major global issue that threatens sustainable urban development. Global climate change has been evident in recent years with the development of global economic integration and urbanisation, and climate change has increased the frequency of extreme rainfall, especially in terms of summer precipitation events (Xu et al. 2018), while urbanisation and degradation of natural environments have exacerbated the impact of urban flooding.\nBeijing frequently suffers from severe flooding, exacerbated by the profound effects of natural topography, monsoon climate and rapid urbanisation. Beijing is located in the northwestern part of the North China Plain, between 115° and 118° E longitude and 39° and 42° N latitude, with an area of 16,410 square kilometres altitude ranging from -30 m to 2,270 m, and a topography that slopes from south-east to north-west (Fig. 1). Beijing has a monsoon climate with uneven spatial and temporal distribution of precipitation, with more than 80 per cent of the total annual precipitation concentrated in July and August. The windward slopes of the central region are highly susceptible to heavy precipitation, and floods and droughts frequently occur(Y. Wang et al. 2024). Since the 20th century, Beijing has been subjected to several high-intensity and destructive extreme precipitation events. 2023 saw the heaviest rainfall in 140 years, which caused significant economic losses and human casualties.\nIn response to the challenges posed by the flooding problem, Beijing has introduced a series of policies:\nBeijing Emergency Plan for Flood Control:Adhere to the combination of prevention as the mainstay, prevention, resistance and relief; adhere to the unity of normal disaster reduction and extraordinary disaster relief; shift from focusing on post-disaster relief to focusing on pre-disaster prevention; shift from responding to a single type of disaster to comprehensive disaster reduction; and shift from disaster loss reduction to disaster risk reduction.\nBeijing Sponge City Construction:The construction of large urban drainage and flood prevention facilities has been intensified, and the transformation and elimination of urban flood-prone points has been accelerated. Accelerate the implementation of rainwater and sewage diversion, and urban built-up areas should combine the transformation of old neighbourhoods and the construction of micro-circulation roads to improve the coverage of the rainwater pipe network.\nThe CPC Central Committee’s proposal on the formulation of the 14th Five-Year Plan for National Economic and Social Development and the Visionary Goals for the 23rd Five-Year Plan:\n31.Promoting a new type of urbanisation centred on people. Implementing urban renewal actions, promoting urban ecological restoration and function improvement projects, enhancing urban flood prevention and drainage capacity, and building sponge and resilient cities.\n51.Upgrading the engineering standards for defence against natural disasters such as floods and droughts, geological disasters and earthquakes, accelerating the construction of river control projects, speeding up the removal and reinforcement of reservoirs at risk, and comprehensively promoting the construction of embankments and flood storage areas. It will improve the national emergency management system, strengthen the construction of an emergency material and security system, develop catastrophe insurance, and enhance the capacity for disaster prevention, mitigation, response and relief.\nAt the same time, solutions to the flooding problem are also relevant to global sustainable development policies:\nThe United Nations New Urban Agenda :\n(g) Cities should adopt and implement disaster risk reduction and management, reduce vulnerability, build resilience and responsiveness to natural and man-made disasters, and contribute to climate change mitigation and adaptation.\nUnited Nations Sustainable Development Goals:\n(11) Build inclusive, safe, disaster-resilient and sustainable cities and human settlements.\n(13) Take urgent action to address climate change and its impacts.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Week 4- Policy</span>"
+    ]
+  },
+  {
+    "objectID": "week4.html#applications",
+    "href": "week4.html#applications",
+    "title": "4  Week 4- Policy",
+    "section": "4.2 Applications",
+    "text": "4.2 Applications\nWang et al. (2024)developed a method to prioritize the development of green infrastructure from the perspective of mitigating urban flood risk, and provided suggestions from the layout of green infrastructure, as shown in Figure 2.\n\n\n\nFig. 2. Research framework. Source: (Z. Wang et al. 2024)\n\n\nBased on precipitation data from 2000 to 2020, satellite remote sensing data such as land use data and vegetation cover data, as well as socio-economic data, this paper constructs a disaster risk assessment model based on the natural environment, socio-economic and urban planning policy system of Beijing, and concludes that the spatial distribution pattern of flood risk is high in the southeast and low in the northwest. Then, through the superposition of four indicators, namely the identification of high rainwater runoff areas, the distribution of vulnerable populations, the identification of buildings and roads in high flood risk areas, and the proportion of green infrastructure area, the green infrastructure layout priority is determined as shown in Figure 3, so as to provide suggestions for green infrastructure layout planning at the township scale.\n\n\n\nFig. 3. Streets prioritized for green infrastructure to mitigate flood risk, 2020. Source: (Z. Wang et al. 2024)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Week 4- Policy</span>"
+    ]
+  },
+  {
+    "objectID": "week4.html#reflection",
+    "href": "week4.html#reflection",
+    "title": "4  Week 4- Policy",
+    "section": "4.3 Reflection",
+    "text": "4.3 Reflection\nFor me, this week’s process of collecting and interpreting global as well as local policies and using remote sensing data to solve policy challenges was very interesting and rewarding! Firstly, in the process of collecting policies, it was interesting to watch the different layers of policy documents, from global to national to regional, gradually moving from top-level design to gradually landing on the ground, with the next layer of documents following the guidelines of the higher layer, but adding local features. Secondly, because the remote sensing data and methods this week were grounded in a policy context, it made me feel that what I was learning and doing was really helping to solve the current challenges the world is facing, which made me more determined to continue to learn other things about remote sensing.\n\n\n\n\nWang, Yifei, Lu Peng, Liang Emlyn Yang, Zehao Wang, and Xiangzheng Deng. 2024. “Attributing Effects of Classified Infrastructure Management on Mitigating Urban Flood Risks: A Case Study in Beijing, China.” Sustainable Cities and Society 101 (February): 105141. https://doi.org/10.1016/j.scs.2023.105141.\n\n\nWang, Zehao, Zhihui Li, Yifei Wang, Xinqi Zheng, and Xiangzheng Deng. 2024. “Building Green Infrastructure for Mitigating Urban Flood Risk in Beijing, China.” Urban Forestry & Urban Greening 93 (March): 128218. https://doi.org/10.1016/j.ufug.2024.128218.\n\n\nXu, Hongshi, Chao Ma, Jijian Lian, Kui Xu, and Evance Chaima. 2018. “Urban Flooding Risk Assessment Based on an Integrated k-Means Cluster Algorithm and Improved Entropy Weight Method in the Region of Haikou, China.” Journal of Hydrology 563 (August): 975–86. https://doi.org/10.1016/j.jhydrol.2018.06.060.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Week 4- Policy</span>"
+    ]
+  },
+  {
+    "objectID": "week7.html",
+    "href": "week7.html",
+    "title": "7  Week 7- Classification II",
+    "section": "",
+    "text": "7.1 Summary",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Week 7- Classification II</span>"
+    ]
+  },
+  {
+    "objectID": "week7.html#applications",
+    "href": "week7.html#applications",
+    "title": "7  Week 7- Classification II",
+    "section": "7.2 Applications",
+    "text": "7.2 Applications\nAs spatial resolution becomes finer and finer, the rich spatial information presented in high-resolution images makes it more difficult to accurately classify high-resolution images (Zhao and Du 2016), and deep learning provides an effective strategy to fill the gap between complex image patterns and their semantic labels.\nFor example, Zhao, Du, and Emery (2017) proposed an object-based deep learning method to classify urban landscapes using high-resolution images, and the classification results are shown below using the five-layer structure of CNN. The experimental results show that through the combination of deep learning and object-based classification, it is possible to distinguish between different building types in the Beijing scene, such as commercial and residential buildings, with a classification accuracy of more than 90%, and this timely and accurate classification and interpretation of high-resolution images is very important for urban planning and disaster relief.\n\n\n\nIn (A), (B), and (C) is shown the classification results by using five layer CNN network over Worldview-2. Source: (Zhao, Du, and Emery 2017)",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Week 7- Classification II</span>"
+    ]
+  },
+  {
+    "objectID": "week7.html#reflection",
+    "href": "week7.html#reflection",
+    "title": "7  Week 7- Classification II",
+    "section": "7.3 Reflection",
+    "text": "7.3 Reflection\nThis week I continued my in-depth study of classification of remotely sensed imagery, and through hands-on work with subpixel classification and spectral resolution techniques in the practical sessions, I discovered their power in dealing with mixed pixels, which allows me to more accurately capture small variations in the landscape. I also got to practice Superpixel, an object-based image analysis method, which provided me with a way to transition from initial pixel-level analysis to object-level analysis, helping me to capture structure and patterns in the landscape. All in all, it was a pleasure to learn these techniques for processing remote sensing images this week, and I am confident that these skills will help me greatly in my future endeavours!\n\n\n\n\nZhao, Wenzhi, and Shihong Du. 2016. “Spectralspatial Feature Extraction for Hyperspectral Image Classification: A Dimension Reduction and Deep Learning Approach.” IEEE Transactions on Geoscience and Remote Sensing 54 (8): 4544–54. https://doi.org/10.1109/tgrs.2016.2543748.\n\n\nZhao, Wenzhi, Shihong Du, and William J. Emery. 2017. “Object-Based Convolutional Neural Network for High-Resolution Imagery Classification.” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 10 (7): 3386–96. https://doi.org/10.1109/jstars.2017.2680324.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Week 7- Classification II</span>"
+    ]
+  },
+  {
+    "objectID": "week8.html",
+    "href": "week8.html",
+    "title": "8  Week 8- Temperature",
+    "section": "",
+    "text": "8.1 Summary",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 8- Temperature</span>"
+    ]
+  },
+  {
+    "objectID": "week8.html#applications",
+    "href": "week8.html#applications",
+    "title": "8  Week 8- Temperature",
+    "section": "8.2 Applications",
+    "text": "8.2 Applications\nRemote sensing, which allows consistent and repeatable observations of surface temperature in urban environments at various spatial and temporal scales, plays a vital role in the study of urban temperatures, and this part focuses on the application of remote sensing in the study of urban temperatures.\nZargari et al. (2024)studied the phenomenon of surface urban heat island in Tehran and its suburbs by comparing surface temperature day and night data from remote sensing satellites. The results showed that at night Tehran experienced relatively high surface temperatures in urban areas and southern, southeastern, southwestern and western suburbs (as shown in the figure below), revealing that the phenomenon of heat island effect is not only confined to the urban areas but has been extended beyond the city boundaries, which provides a scientific basis for understanding the spatial distribution characteristics of the urban heat island effect, and for establishing a rational urban planning to mitigate the effect of the heat island.\n\n\n\nThe spatial distribution of annual LST (a), UHI (b), and vegetation (c) in Tehran. Source: (Zargari et al. 2024)",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 8- Temperature</span>"
+    ]
+  },
+  {
+    "objectID": "week8.html#reflection",
+    "href": "week8.html#reflection",
+    "title": "8  Week 8- Temperature",
+    "section": "8.3 Reflection",
+    "text": "8.3 Reflection\nThrough my research on the urban heat island effect this week, I have gained a deeper understanding of urban environmental issues. Especially when analysing the temperature data of Beijing and other cities in the practical class, I realised the potential impacts of the urban heat island effect on residents’ lives, urban ecology and human health.\nThis week has further enhanced my ability to analyse remote sensing data. By using Landsat and MODIS data, I have learnt how to process and analyse temperature data at different resolutions and how to combine these data with spatial units such as administrative boundaries to identify and monitor hotspot areas in cities. In addition, I recognised the utility of time series analysis in understanding changes in urban thermal environments, and how to assess and manage urban thermal risk through statistical methods such as percentile rankings. These skills not only enhanced my ability to analyse data, but also alerted me to think deeply about the implications of climate change issues in my future work.\n\n\n\n\nZargari, Motahhareh, Abbas Mofidi, Alireza Entezari, and Mohammad Baaghideh. 2024. “Climatic Comparison of Surface Urban Heat Island Using Satellite Remote Sensing in Tehran and Suburbs.” Scientific Reports 14 (1). https://doi.org/10.1038/s41598-023-50757-2.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Week 8- Temperature</span>"
+    ]
+  },
+  {
+    "objectID": "week4.html#summary",
+    "href": "week4.html#summary",
+    "title": "4  Week 4- Policy",
+    "section": "",
+    "text": "Fig. 1. Geographical location (a) of Beijing city with its infrastructure regions (b) and urbanization trends (c) Source: (Y. Wang et al. 2024)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Week 4- Policy</span>"
+    ]
+  }
+]
